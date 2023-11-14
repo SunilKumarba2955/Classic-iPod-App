@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Classic-iPod-App/static/css/main.84585dae.css",
+    "main.js": "/Classic-iPod-App/static/js/main.75ec1f90.js",
+    "static/media/BlueJelly.png": "/Classic-iPod-App/static/media/BlueJelly.f4c605133ffd5b465312.png",
+    "static/media/AudioTapes.png": "/Classic-iPod-App/static/media/AudioTapes.a5d48d204e03408b41db.png",
+    "static/media/DHARIA  Sugar  Brownies.mp3": "/Classic-iPod-App/static/media/DHARIA  Sugar  Brownies.a0d4eac39c571ea00726.mp3",
+    "static/media/BlueCubes.png": "/Classic-iPod-App/static/media/BlueCubes.adafdb5ac63814c57e2b.png",
+    "static/media/Billie Eilish  Six Feet Under.mp3": "/Classic-iPod-App/static/media/Billie Eilish  Six Feet Under.9b0aaec01894fcf0675f.mp3",
+    "static/media/Confetti  Ghost.mp3": "/Classic-iPod-App/static/media/Confetti  Ghost.493a409a0d04290bb4ed.mp3",
+    "static/media/Jony Love Your Voice.mp3": "/Classic-iPod-App/static/media/Jony Love Your Voice.cee175383b6b8fc7abdf.mp3",
+    "static/media/Besomorph  Silent Child  IDGAF.mp3": "/Classic-iPod-App/static/media/Besomorph  Silent Child  IDGAF.f866dd625733920fbdd5.mp3",
+    "static/media/game.jpg": "/Classic-iPod-App/static/media/game.39b5dc814246f5eafc3d.jpg",
+    "static/media/Besomorph  Silent Child  IDGAF.png": "/Classic-iPod-App/static/media/Besomorph  Silent Child  IDGAF.303452e8320d49c9cd85.png",
+    "static/media/settings.png": "/Classic-iPod-App/static/media/settings.e0158f7b671d8a93c11a.png",
+    "static/media/DHARIA  Sugar  Brownies.png": "/Classic-iPod-App/static/media/DHARIA  Sugar  Brownies.dc287a1fdfaa4178ae8d.png",
+    "static/media/Jony Love Your Voice.png": "/Classic-iPod-App/static/media/Jony Love Your Voice.d46ea72622934fd22499.png",
+    "static/media/Confetti  Ghost.png": "/Classic-iPod-App/static/media/Confetti  Ghost.2ed2f5175a3bba2b7d20.png",
+    "static/media/Billie Eilish  Six Feet Under.png": "/Classic-iPod-App/static/media/Billie Eilish  Six Feet Under.32aad8dc2ae7944eb489.png",
+    "index.html": "/Classic-iPod-App/index.html",
+    "main.84585dae.css.map": "/Classic-iPod-App/static/css/main.84585dae.css.map",
+    "main.75ec1f90.js.map": "/Classic-iPod-App/static/js/main.75ec1f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84585dae.css",
+    "static/js/main.75ec1f90.js"
+  ]
+}
